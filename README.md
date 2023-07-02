@@ -1,4 +1,4 @@
-#Advent Of Code[![🔗]((https://adventofcode.com/))]
+# Advent Of Code[🔗](https://adventofcode.com/)
 
-        set of real-world world problems to solve.
-        Using this for learning a new language
+A website containing a set of real-world world problems to solve.
+Using for learning a new language
