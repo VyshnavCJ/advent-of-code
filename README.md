@@ -1,4 +1,4 @@
-# advent-of-code
-    Advert of code 
+# Advent Of Code[Advent Of Code](https://adventofcode.com/)
+
         set of real-world world problems to solve.
-        using this for learning new language
+        Using this for learning a new language
